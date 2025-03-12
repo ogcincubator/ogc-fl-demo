@@ -4,7 +4,7 @@
 
 This repo's `gh-pages` branch, online at:
 
-https://kurrawong.github.io/ogc-fl-demo/web/
+https://ogcincubator.github.io/ogc-fl-demo/web/index.html
 
 
 == Property Behaviours
